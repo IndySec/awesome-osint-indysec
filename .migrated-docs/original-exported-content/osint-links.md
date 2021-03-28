@@ -207,7 +207,7 @@ SOURCE:
 
  
 
-![](.//media/image1.png)
+![](./media/image1.png)
 
  
 
@@ -402,7 +402,7 @@ Sunday, September 20, 2020
 > ![what do social sites do with the gps location on your uploaded
 > photos? Upload Source om uter Phone Remove Hide Display Remove Hide
 > Dis •Twitter Google + Linked i intereéi tumblr. Blogger x x x x x x x
-> x x x x x x x x x x x x ](.//media/image2.png)
+> x x x x x x x x x x x x ](media/image2.png)
 > 
 >  
 > 
@@ -570,7 +570,7 @@ Address Email Permutator FB Password Reset Email Search Engines Gmail,
 Yahoo, Hotmail, etc. Facebook Profile Email Assumptions (Work) Email
 Assumptions (Personal) Social Networks IntelTechniques.com OSINT
 Workflow Chart: Email Address Michael Bazzell's OSINT Flowcharts
-](.//media/image3.png)
+](media/image3.png)
 
  
 
@@ -624,7 +624,7 @@ Wednesday, January 20, 2021
 > 
 >  
 > 
-> ![Somdev Sangwan](.//media/image4.jpg)
+> ![Somdev Sangwan](media/image4.jpg)
 > 
 > [Somdev
 > Sangwan](https://s0md3v.medium.com/?source=post_page-----fc2378b5f709--------------------------------)
@@ -648,11 +648,11 @@ Wednesday, January 20, 2021
 
 > Hemispheres, Earth’s Axis & Directions
 > 
-> ![Image for post](.//media/image5.png)
+> ![Image for post](media/image5.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image6.png)
+> ![Image for post](media/image6.png)
 
   - > Earth has a magnetic field and like all magnets it has two
     > poles, **north** and **south**.
@@ -681,11 +681,11 @@ Wednesday, January 20, 2021
 
   - > Now, create a line **AD** which points to North direction.
 
-> ![Image for post](.//media/image7.png)
+> ![Image for post](media/image7.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image8.png)
+> ![Image for post](media/image8.png)
 > 
 > The angle between the line **AB** and **AC** is called the **Solar
 > Elevation Angle**. It tells us how high the sun is in the sky.
@@ -708,11 +708,11 @@ Wednesday, January 20, 2021
 > To understand why it happens, let’s take a look at this GIF which
 > shows the earth orbiting the sun over the course of an year.
 > 
-> ![Image for post](.//media/image9.jpg)
+> ![Image for post](media/image9.jpg)
 > 
 >  
 > 
-> ![Image for post](.//media/image10.gif)
+> ![Image for post](media/image10.gif)
 > 
 > As you can see, the earth’s orbit is not a perfect circle and neither
 > the Sun is the center of the orbit which is why it’s distance to the
@@ -720,20 +720,20 @@ Wednesday, January 20, 2021
 > and in January, it’s the farthest. To add to it, the Earth’s axis is
 > tilted at a angle of 23.5 degrees.
 > 
-> ![Image for post](.//media/image11.png)
+> ![Image for post](media/image11.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image12.png)
+> ![Image for post](media/image12.png)
 > 
 > Due to this tilt, when the earth is closer to the sun (in June), sun
 > rays hit the earth in this way:
 > 
-> ![Image for post](.//media/image13.jpg)
+> ![Image for post](media/image13.jpg)
 > 
 >  
 > 
-> ![Image for post](.//media/image14.gif)
+> ![Image for post](media/image14.gif)
 > 
 > As you can see, the sun rays hit the Northern hemisphere in June at a
 > higher angle and for longer time. As we progress through the year this
@@ -768,21 +768,21 @@ Wednesday, January 20, 2021
 > To put what we have learned so far to a test, let’s try to make an
 > educated guess about when the following photo was taken.
 > 
-> ![Image for post](.//media/image15.png)
+> ![Image for post](media/image15.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image16.png)
+> ![Image for post](media/image16.png)
 > 
 > First, we must know the location where the photo was taken. I found
 > the exact spot on Google earth and highlighted matching objects to
 > validate my finding. The coordinates are 41.889695, 12.4912546.
 > 
-> ![Image for post](.//media/image17.png)
+> ![Image for post](media/image17.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image18.png)
+> ![Image for post](media/image18.png)
 > 
 > Our next objective is to find the north direction in photo.
 > 
@@ -798,11 +798,11 @@ Wednesday, January 20, 2021
 > the photo above, do you see that circled little pole thingy? Let’s
 > call it point **A** in our Google earth image.
 > 
-> ![Image for post](.//media/image19.png)
+> ![Image for post](media/image19.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image20.png)
+> ![Image for post](media/image20.png)
 > 
 > The left most and right most pillars of the arch point are
 > named **B** and **C**, respectively. Also, in Google earth (and most
@@ -824,11 +824,11 @@ Wednesday, January 20, 2021
 > smaller than the angle **BAC**, this line gives us the north
 > direction.
 > 
-> ![Image for post](.//media/image21.png)
+> ![Image for post](media/image21.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image22.png)
+> ![Image for post](media/image22.png)
 > 
 > Next, we will find the Azimuth angle. Remember what is an Azimuth
 > angle? It’s the angle between Sun’s direction and North. In our case,
@@ -836,21 +836,21 @@ Wednesday, January 20, 2021
 > will be 180°. Remember, sun’s direction is always opposite to the
 > shadow’s direction.
 > 
-> ![Image for post](.//media/image23.png)
+> ![Image for post](media/image23.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image24.png)
+> ![Image for post](media/image24.png)
 > 
 > Now is the time for the last calculation, the ratio between an object
 > and it’s length. You can use any unit of length because we are just
 > calculating ratio.
 > 
-> ![Image for post](.//media/image25.png)
+> ![Image for post](media/image25.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image26.jpeg)
+> ![Image for post](media/image26.jpeg)
 > 
 > As you can see, the shadow is 1.61 times large the object itself and
 > that’s the final piece of information we needed to know.
@@ -877,11 +877,11 @@ Wednesday, January 20, 2021
 > close, you can start narrowing down and start changing day of the
 > month and pick the one the produces the closest result.
 > 
-> ![Image for post](.//media/image27.png)
+> ![Image for post](media/image27.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image28.png)
+> ![Image for post](media/image28.png)
 > 
 > In this case, the closest match was February 1st-2nd, and 12:20 PM,
 > when shadow length of is 1.66 (close to 1.61) and Azimuth angle is
@@ -1003,11 +1003,11 @@ Wednesday, January 20, 2021
 > identified by visible “boxes”. Take a look at the following image for
 > example
 > 
-> ![Image for post](.//media/image29.jpg)
+> ![Image for post](media/image29.jpg)
 > 
 >  
 > 
-> ![Image for post](.//media/image30.jpg)
+> ![Image for post](media/image30.jpg)
 > 
 > REDACTED
 > 
@@ -1069,11 +1069,11 @@ Wednesday, January 20, 2021
 > [**Learn to code in less than a
 > week**](https://medium.com/@somdevsangwan/learn-to-code-in-less-than-a-week-8f3da5e0ab29?source=follow_footer---------3----------------------------)
 > 
-> ![Image for post](.//media/image31.png)
+> ![Image for post](media/image31.png)
 > 
 >  
 > 
-> ![Image for post](.//media/image32.png)
+> ![Image for post](media/image32.png)
 > 
 > Made with canva.com
 > 
@@ -1255,7 +1255,7 @@ of Shannon Matthews Juie K12kstnSm in Armie Hammer Has Been Being Into
 Cannibalism Carrie Wsmn in She Wmte Personalized Brain Stimulation
 Provides Hope for Treating Intractable Depression Ed Ergerzinger in i
 ngWeIl I'll Never Be a Chief Technology Officer Againm Unless Its for My
-Own Company in Th e Inn f-Elp L\_4al ](.//media/image33.png)
+Own Company in Th e Inn f-Elp L\_4al ](media/image33.png)
 
  
 
@@ -1286,7 +1286,7 @@ Wednesday, October 28, 2020
 > Commentson Planes & Trains – Quiztime 24th
 > June 2020](https://nixintel.info/osint/planes-trains-quiztime-24th-june-2020/#comments)
 > 
-> ![](.//media/image34.png)
+> ![](media/image34.png)
 > 
 > During lockdown I’ve spent a lot of my evenings trying to improve my
 > coding and data science skills
@@ -1303,7 +1303,7 @@ Wednesday, October 28, 2020
 > this first it would have been much harder. Here’s the [original
 > tweet](https://twitter.com/i/status/1275870812017438726):
 > 
-> ![](.//media/image35.png)
+> ![](media/image35.png)
 > 
 > Tilman asks us to identify the train and the plane, but we can’t do
 > either of those things until we know where he is, and instead of an
@@ -1344,7 +1344,7 @@ Wednesday, October 28, 2020
 > I admit the first thing I did was to try and see if the station name
 > was captured in one of the stills. I was disappointed:
 > 
-> ![](.//media/image36.png)
+> ![](media/image36.png)
 > 
 > *Hmm.*
 > 
@@ -1378,7 +1378,7 @@ Wednesday, October 28, 2020
 > We can get some other conditions from the images. It is easy to see
 > that the landscape is quite flat farmland:
 > 
-> ![](.//media/image37.png)
+> ![](media/image37.png)
 > 
 > So condition \#2 is easy:
 > 
@@ -1390,11 +1390,11 @@ Wednesday, October 28, 2020
 > they generally face south or south-east. Several of the houses have
 > solar panels so this helps with orientation:
 > 
-> ![](.//media/image38.png)
+> ![](media/image38.png)
 > 
 >  
 > 
-> ![](.//media/image39.png)
+> ![](media/image39.png)
 > 
 > If these buildings are facing roughly south, then Tilman must be
 > facing approximately north as he films them. This means that both
@@ -1434,12 +1434,12 @@ Wednesday, October 28, 2020
 > Earth Pro. To make it simple we can disable all the layers in the map
 > except for place names, railways, and airports, like this:
 > 
-> ![](.//media/image40.png)
+> ![](media/image40.png)
 > 
 > This leaves our target area looking like the image below. The railways
 > are black lines, the airports are marked with the plane symbol:
 > 
-> ![](.//media/image41.png)
+> ![](media/image41.png)
 > 
 > There are only a few airports, so it will not take long to check them.
 > We can strictly apply our true conditions and immediately reject a lot
@@ -1451,7 +1451,7 @@ Wednesday, October 28, 2020
 > that too. Amsterdam Schiphol has a railway line nearby that is
 > parallel to one of the runways, could that be it?
 > 
-> ![](.//media/image42.png)
+> ![](media/image42.png)
 > 
 > Nope. On closer inspection the orientation is impossible, Tilman could
 > not look north from this train line and see a plane that is landing at
@@ -1462,7 +1462,7 @@ Wednesday, October 28, 2020
 > 
 >  
 > 
-> ![](.//media/image43.png)
+> ![](media/image43.png)
 > 
 > It meets all the conditions:
 > 
@@ -1481,7 +1481,7 @@ Wednesday, October 28, 2020
 > 
 > Verifying The Location
 > 
-> ![](.//media/image44.png)
+> ![](media/image44.png)
 > 
 > There are only three stations that Tilman could have passed through on
 > this bit of line as he took the video: Kortenberg, Erps-Kwerps, and
@@ -1494,38 +1494,38 @@ Wednesday, October 28, 2020
 > This cannot be the case on the approach to Kortenberg because we
 > cannot see the houses in this picture:
 > 
-> ![](.//media/image45.png)
+> ![](media/image45.png)
 > 
 > For the same reason it cannot be Veltem either:
 > 
-> ![](.//media/image46.png)
+> ![](media/image46.png)
 > 
 > Erps-Kwerps looks more promising though:
 > 
-> ![](.//media/image47.png)
+> ![](media/image47.png)
 > 
 > Now we need to focus on some details to see if what we’ve found at
 > Erps-Kwerps matches with what we can see in the video. I’ve picked out
 > some identifying features to check: a detached house with solar panels
 > on the roof, three lamp posts, and a road:
 > 
-> ![](.//media/image34.png)
+> ![](media/image34.png)
 > 
 > We can compare them to Google Earth and find matches in the right
 > place:
 > 
-> ![](.//media/image48.png)
+> ![](media/image48.png)
 > 
 > Looks good\! We can do one more check just to be certain. This house
 > has a distinctive solar panel layout:
 > 
-> ![](.//media/image49.png)
+> ![](media/image49.png)
 > 
 >  
 > 
 > It matches perfectly with this house right next to the station:
 > 
-> ![](.//media/image50.png)
+> ![](media/image50.png)
 > 
 > Perfect\! By being methodical from the outset we have used features in
 > the original video to determine what conditions must be true of the
@@ -1572,7 +1572,7 @@ Wednesday, October 28, 2020
 > consistent. This was the arrival schedule for Thursday 25th June at
 > the relevant time period:
 > 
-> ![](.//media/image51.png)
+> ![](media/image51.png)
 > 
 > There are several possibilities, but the one that really stands out is
 > the train from Frankfurt(Main)Hbf. The train service number is ICE 18.
@@ -1594,7 +1594,7 @@ Wednesday, October 28, 2020
 > Cologne before heading to Brussels-Midi, [where it arrives
 > at 09:35](https://grahnert.de/fernbahn/datenbank/suche/index.php?fahrplan_jahr=2019&fahrplan_tafel%5b%5d=ab&zug_gattung=&zug_gattung2%5b%5d=F&zug_gattung2%5b%5d=N&zug_gattung2%5b%5d=S&fahrplan_tage%5b%5d=0&fahrplan_tage%5b%5d=1&fahrplan_tage%5b%5d=2&fahrplan_tage%5b%5d=3&fahrplan_tage%5b%5d=4&fahrplan_tage%5b%5d=5&fahrplan_tage%5b%5d=6&bahnhofplan_ansicht=bahnhofstafel&fv_suche_fahrplan=Suchen&bahnhof_status=1&bahnhof_name=Frankfurt\(M\)Hbf&zug_id=20190100018).
 > 
-> ![](.//media/image52.png)
+> ![](media/image52.png)
 > 
 > This is the best fit for what we know about Tilman and what we have
 > learned about the train journey in the video. The train is ICE 18 from
@@ -1618,11 +1618,11 @@ Wednesday, October 28, 2020
 > 
 >  
 > 
-> ![](.//media/image53.png)
+> ![](media/image53.png)
 > 
 > *Enhance…*
 > 
-> ![](.//media/image54.png)
+> ![](media/image54.png)
 > 
 > Source image: <https://www.jetphotos.com/photo/9659627>
 > 
@@ -1647,7 +1647,7 @@ Wednesday, October 28, 2020
 > October 2019 and where the plane was relative to Tilman’s position at
 > Erp-Kwerps at the time he made the video:
 > 
-> ![](.//media/image55.png)
+> ![](media/image55.png)
 > 
 > If you found this post useful, you can read the rest of my Quiztime
 > posts [here](https://nixintel.info/tag/quiztime/).

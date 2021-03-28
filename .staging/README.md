@@ -1,41 +1,119 @@
 # To-Be Sorted / Verified
 These are links that need to be sorted to determine their practicality, and usability. 
 
->  
+## Social Media
+
+### Facebook
+- [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
+  - Various search categories.
+
+### Snapchat
+- [https://map.snapchat.com/](https://map.snapchat.com/)
+  - This is the snapchat map.
+
+### Twitter
+- [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/)
+	- Tool to help view tweets. 
+- [https://keitharm.me/projects/tweet/](https://keitharm.me/projects/tweet/)
+  - This attempts to get location data from a given tweet if available. 
+- [https://socialbearing.com/](https://socialbearing.com/)
+  - There is a free, and paid version of this. The free is rate limited, and seems to be mostly a marketing tool.
+    - DUMP.
+- [https://tweetbeaver.com/](https://tweetbeaver.com/)
+  - This is a free tool, but requires Twitter api access in ordere to get information about a user (if public). This could be kept, unless there is another tool that does the same funcitonality without requiring Twitter API access.
+	- Maybe-Dumped.
+
+### Instagram
+- [https://www.osintcombine.com/instagram-explorer](https://www.osintcombine.com/instagram-explorer)
+  	- Free tool, and will search a location, and a data of specific photos. The location name doesn't seem correct with the GPS ordinates. 
+      - Maybe-dumped 
+### Reddit
+- [https://www.osintcombine.com/reddit-post-analyser](https://www.osintcombine.com/reddit-post-analyser)
+  - Reddit Post analyser, and free tool. Seems broken at the moment, and general directions aren't immedately inclear.
+    - DUMP.
+ 
+### Misc
+- [https://www.osintcombine.com/social-geo-lens](https://www.osintcombine.com/social-geo-lens)
+	- Social Geo Lens takes a give coordinate, and tries to locate that on various social media platforms (Facebook,Instagram, Twitter, Snapchat, YouTube).
+      - Maybe-dumped. While this might be usable the pop-ups for each of those platforms aren't the best. 
+ - [https://github.com/BruceWen98/ProfilingDataBrokers](https://github.com/BruceWen98/ProfilingDataBrokers) - https://github.com/BruceWen98/ProfilingDataBrokers 
+	- Lots of scraping resouces for various social media, and databroke platforms. 
+	- OR this too. These need to be compared: https://github.com/BruceWen98/Scraping-and-Profiling-Data-Brokers
+
+## Image / Video
+- [https://www.osintcombine.com/reverse-image-analyzer](https://www.osintcombine.com/reverse-image-analyzer)
+  - Reverse Image analyser, Google/Yandex
+
+- [https://www.osintcombine.com/google-analytics-id-explorer](https://www.osintcombine.com/google-analytics-id-explorer)
+  - Google Analytics ID Explorer 
 
   - > TODO: Find resources of a given state for unclaimed money that the
     > missing person could have. Additionally the following link can be
     > searched in order to find more tools related to specific OSINT
     > matters: <https://start.me/>
 
->  
-> 
->  
-> 
->  
-> 
-> <https://sowdust.github.io/fb-search/>
-> 
-> <https://map.snapchat.com/>
-> 
-> <https://tweetdeck.twitter.com/>
-> 
-> <https://keitharm.me/projects/tweet/>
-> 
-> <https://socialbearing.com/>
-> 
-> <https://tweetbeaver.com/>
-> 
-> <http://osintcombine.tools/>
-> 
-> <https://www.osintcombine.com/instagram-explorer>
-> 
+
+## Business
+- [https://github.com/jeraldfeller/zoom-scraper](https://github.com/jeraldfeller/zoom-scraper) - https://github.com/jeraldfeller/zoom-scraper
+  > Scrapes coming information from ZoomInfo.com. 
+- [https://github.com/0xZDH/BridgeKeeper](https://github.com/0xZDH/BridgeKeeper) - https://github.com/0xZDH/BridgeKeeper
+  > Scrape employee names from search engine LinkedIn profiles. Convert employee names to a specified username format.
+
+- [https://github.com/initstring/linkedin2username](https://github.com/initstring/linkedin2username) - https://github.com/initstring/linkedin2username
+  > Generate username lists for companies on LinkedIn
+
+- [https://github.com/waffl3ss/ZIPuller](https://github.com/waffl3ss/ZIPuller) - https://github.com/waffl3ss/ZIPuller
+  > Pull company employee names from ZoomInfo
+
+- [https://github.com/waffl3ss/NameSpi](https://github.com/waffl3ss/NameSpi) - https://github.com/waffl3ss/NameSpi
+  > Scrape LinkedIn, ZoomInfo, and Hunter.io for usernames and employees
+
+## People
+- [https://www.whitepages.com/](https://www.whitepages.com/) - https://www.whitepages.com/
+- [https://github.com/kennyn510/person-of-interest](https://github.com/kennyn510/person-of-interest) - https://github.com/kennyn510/person-of-interest
+	- This has a few useful scripts in it that would need further analysis to determine the usefulness.
+- [https://github.com/ScriptnKitten/scriptnOsint](https://github.com/ScriptnKitten/scriptnOsint) - https://github.com/ScriptnKitten/scriptnOsint
+	- A collection of potentially useful scripts
+
+## Documentation Resources
+- [People OSINT Template for CherryTree](https://github.com/jelliott27/People-OSINT-Template) - https://github.com/jelliott27/People-OSINT-Template
+
+
+## Meta-Resource Links
+The meta-resouce links should be reviewed, useful resouces extracted, and referenced. 
+- [CTI & OSINT Online Resouces by AaronCTI](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0) - https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0
+
+- [Set it on fire (emoji) child - OSINT for Finding People by cybersecstu](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104) - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104
+
+- [Bellingcat's ONline Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) - https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607
+
+- [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit) - https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit
+
+- [awesome-osint by jivoi](https://github.com/jivoi/awesome-osint) - https://github.com/jivoi/awesome-osint  
+
+- [CSE Utopia - Google Dorking](https://start.me/p/EL84Km/cse-utopia) - https://start.me/p/EL84Km/cse-utopia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## YET TO BE FILTERED
+
 > <https://mattw.io/youtube-geofind/location>
 > <https://www.doogal.co.uk/strava.php>
-> 
-> <https://github.com/jelliott27/People-OSINT-Template>
-> 
-> <https://www.zotero.org/>
 > 
 > <http://docquery.fec.gov/>
 > 
@@ -46,18 +124,9 @@ These are links that need to be sorted to determine their practicality, and usab
   - > Tries to find information relating to a give phone number,
     > person's name, or social media related information.
 
-  - > <https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104>
-    
-      - > "Set it on fire child - OSINT for Finding People", various
-        > tools, and guides.
-
-  - > <https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0>
     
       - > More OSINT links
 
-  - > Bellingcat's Online Investigator Toolkit
-    
-      - > <https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607>
 
   - > <https://github.com/sowdust/ffff>
     
@@ -84,10 +153,6 @@ These are links that need to be sorted to determine their practicality, and usab
       - > Previous transactions:
         
           - > <https://github.com/sa7mon/venmo-data>
-
-  - > CTI & OSINT Online Resources
-    
-      - > <https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0>
 
   - > xlek.com - People Search
 
@@ -116,10 +181,6 @@ These are links that need to be sorted to determine their practicality, and usab
   - > Pwndb - Darkweb Breach Data
     
       - > <http://pwndb2am4tzkvold.onion/>
-
-  - > OSINT Curious OSINT Resource List
-    
-      - > <https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit>
 
   - > <https://github.com/FBStrike/FBStrike>
     
@@ -209,10 +270,6 @@ These are links that need to be sorted to determine their practicality, and usab
         > <https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/>
 
 >  
-
-  - > Court
-    
-      - > <https://www.judyrecords.com/>
 
   - > Reverse Image Searching
     
@@ -324,10 +381,6 @@ These are links that need to be sorted to determine their practicality, and usab
     
       - > <https://gofindwho.com/>
 
-  - > Google Dorking Relating Links
-    
-      - > <https://start.me/p/EL84Km/cse-utopia>
-
   - > Online Tools Link
     
       - > <https://www.osintcombine.com/tools>
@@ -430,3 +483,6 @@ These are links that need to be sorted to determine their practicality, and usab
   - > Omnibus Set of links
     
       - > <https://start.me/p/1kxyw9/v3nari-bookmarks>
+ 
+- ImportYei - Helps to find any Company's Suppliers
+  - > <https://www.importyeti.com/>

@@ -15,3 +15,5 @@ This is a work in progress as notes from another document get added here.
   - [ ] [.staging/to-be-verified.md](.staging/to-be-verified.md) 
   - [ ] [.staging/README.md](.staging/README.md)
 - [ ] Spell check, and fix bad grammar. 
+- [ ] Manually export original embedded docs from OneNote.
+- [ ] Verify all original content was properly extracted.

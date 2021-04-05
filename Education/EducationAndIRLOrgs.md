@@ -33,7 +33,12 @@ This page shall list various resources, and organizations to further help with e
 	- Twitter: https://twitter.com/TheOSINTion
 	- Trainings: https://www.theosintion.com/courses/
 
+- [OSINT FR](https://www.osintfr.com) - https://osintfr.com/
+  - Twitter - https://twitter.com/OsintFr
 
+- [Sector035](https://sector035.nl/) - https://sector035.nl/
+  - Twitter - https://twitter.com/Sector035
+  - 
 ## Events
 - Search Party (OSINT CTF for Missing Persons) - [https://www.tracelabs.org/initiatives/search-party](https://www.tracelabs.org/initiatives/search-party) 
 
@@ -43,12 +48,19 @@ This page shall list various resources, and organizations to further help with e
 - [Books written by Michael Bazzell](https://inteltechniques.com/books.html) - https://inteltechniques.com/books.html
 
 ### Blogs
-- 
-
+- [OSINT ME](https://www.osintme.com/) - https://www.osintme.com/
+	- Twitter - https://twitter.com/osintme
 
 ### Podcasts
 - [OSINT Curious](https://osintcurio.us/osintvideosandpodcasts/) - https://osintcurio.us/osintvideosandpodcasts/
-- []() - 
+- [The OSINT Podcast](https://twitter.com/osintpodcast) - https://twitter.com/osintpodcast
+	- https://osintpodcast.com/
 
 ### Videos
 - [OSINT Curious](https://osintcurio.us/live-streams/) - https://osintcurio.us/live-streams/
+
+
+### Individuals
+- [https://twitter.com/harrywald80](https://twitter.com/harrywald80) - https://twitter.com/harrywald80
+- [https://twitter.com/palenath](https://twitter.com/palenath) - https://twitter.com/palenath
+  - [https://github.com/megadose/](https://github.com/megadose/) - https://github.com/megadose/

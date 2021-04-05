@@ -518,10 +518,6 @@ document.
 
   - > <https://github.com/s0md3v/Photon>
 
-  - > <https://intelx.io/>
-
-  - > <https://osintframework.com/>
-
   - > <https://assets.losspreventionmedia.com/uploads/2018/11/OSINT_Handbook_June-2018_Final.pdf>
 
 > \<\<OSINT\_Handbook\_June-2018\_Final.pdf\>\>

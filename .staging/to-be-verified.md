@@ -22,12 +22,19 @@ Tools that need to be run to determine their usefulness, and ease of usability.
 
 ## Email
 - [https://github.com/pixelbubble/ProtOSINT](https://github.com/pixelbubble/ProtOSINT)
-> 
 
-## Images and Video
+## Phone
+- [SPY Dialer](https://spydialer.com/) - https://spydialer.com/
+	- This has lookups for the following fields - Phone, People, Address, and Email
+- [DevonThomas - phone-search.py](https://gist.github.com/DevonThomas/ef2fc3c2f98d8ebc64cf677da942767f) - https://gist.github.com/DevonThomas/ef2fc3c2f98d8ebc64cf677da942767f
+  - While this queries different websites, it also imports webbrowser, and opens it.  
+
+## Images, Video, and Documents
 - [https://github.com/jakecreps/earthshot](https://github.com/jakecreps/earthshot)
 	> A utility that automatically takes screenshots of coordinates using Google Earth.
     - This requires chromedriver, and selenium.
+- [https://github.com/1cbf94bc-bc47-42b9-9197-244437fad1e6/gwhois](https://github.com/1cbf94bc-bc47-42b9-9197-244437fad1e6/gwhois)
+  > Look up ownership information on any public Google Document.
 
 ## Businesses
 - Finding associated sites through Google Analytics Tracking IDs
@@ -46,4 +53,31 @@ Tools that need to be run to determine their usefulness, and ease of usability.
 
 ## Darkweb
 - [https://github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
->  OnionSearch is a script that scrapes urls on different .onion search engines.
+  >  OnionSearch is a script that scrapes urls on different .onion search engines.
+
+
+## Education/Orgs
+- [https://www.osintguru.com/](https://www.osintguru.com/) - https://www.osintguru.com/
+- [https://twitter.com/osint_follower](https://twitter.com/osint_follower) - https://twitter.com/osint_follower
+- [https://twitter.com/ding0snax](https://twitter.com/ding0snax) - https://twitter.com/ding0snax
+- [https://twitter.com/OSINTDojo](https://twitter.com/OSINTDojo) - https://twitter.com/OSINTDojo
+  - https://www.osintdojo.com/resources/
+
+
+
+## Browser Extensions
+- [https://github.com/ninoseki/mitaka](https://github.com/ninoseki/mitaka) - https://github.com/ninoseki/mitaka
+
+## Maltego Transforms
+- [OSINT.party](https://osint.party/) - https://osint.party/
+  > Welcome to OSINT.party the home of Garlic. Garlic is a experimental research project that keeps track of various bits of metadata about sites running on the Tor network.
+
+## Techniques 
+- [https://phonexicum.github.io/infosec/osint.html](https://phonexicum.github.io/infosec/osint.html) - https://phonexicum.github.io/infosec/osint.html
+- [https://github.com/sinwindie/OSINT](https://github.com/sinwindie/OSINT) - https://github.com/sinwindie/OSINT
+  > This has techniques, and data points that can be extracted from different services.
+    > TODO: List items. 
+
+- [https://osintfr.com/en/tools/](https://osintfr.com/en/tools/) - https://osintfr.com/en/tools/
+- [https://tools.epieos.com/](https://tools.epieos.com/) - https://tools.epieos.com/
+  > Google Account Finder, Phone Account Finder, Email usage finder, Email To LinkedIn

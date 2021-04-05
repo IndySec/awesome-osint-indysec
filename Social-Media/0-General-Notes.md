@@ -14,3 +14,12 @@ TODO - Add preface
 ## International Social Media Platforms
 - [OSINTCombine - World Social Media Platforms](https://www.osintcombine.com/world-social-media-platforms) - https://www.osintcombine.com/world-social-media-platforms
 	> This is a searchable list of the most popular platform by country, and category. The data this site was created from is listed.
+
+## Discord
+  - [OSINT Discord Resources](https://github.com/Dutchosintguy/OSINT-Discord-resources) - https://github.com/Dutchosintguy/OSINT-Discord-resources
+    - Discordbee
+    - Discordservers
+    - Discord History Tracker
+    - Discover Hub
+    - Disboard
+    - Unfurl - 

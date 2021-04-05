@@ -6,6 +6,8 @@ These are links that need to be sorted to determine their practicality, and usab
 ### Facebook
 - [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
   - Various search categories.
+- [FFFF - FFFF Finds Facebook Friends](https://github.com/sowdust/ffff) - https://github.com/sowdust/ffff
+
 
 ### Snapchat
 - [https://map.snapchat.com/](https://map.snapchat.com/)
@@ -39,6 +41,9 @@ These are links that need to be sorted to determine their practicality, and usab
  - [https://github.com/BruceWen98/ProfilingDataBrokers](https://github.com/BruceWen98/ProfilingDataBrokers) - https://github.com/BruceWen98/ProfilingDataBrokers 
 	- Lots of scraping resouces for various social media, and databroke platforms. 
 	- OR this too. These need to be compared: https://github.com/BruceWen98/Scraping-and-Profiling-Data-Brokers
+
+- [https://github.com/Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) - https://github.com/Malfrats/xeuledoc
+    > Fetch information about any public Google document.
 
 ## Image / Video
 - [https://www.osintcombine.com/reverse-image-analyzer](https://www.osintcombine.com/reverse-image-analyzer)
@@ -84,6 +89,8 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
 - [CTI & OSINT Online Resouces by AaronCTI](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0) - https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0
 
 - [Set it on fire (emoji) child - OSINT for Finding People by cybersecstu](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104) - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=603724104
+	- Same title, but different URL - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593
+
 
 - [Bellingcat's ONline Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) - https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607
 
@@ -91,18 +98,39 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
 
 - [awesome-osint by jivoi](https://github.com/jivoi/awesome-osint) - https://github.com/jivoi/awesome-osint  
 
-- [CSE Utopia - Google Dorking](https://start.me/p/EL84Km/cse-utopia) - https://start.me/p/EL84Km/cse-utopia
+- [Nordicosint Resources](https://start.me/p/BnrMKd/01-nordic-osint-resource-hub) - https://start.me/p/BnrMKd/01-nordic-osint-resource-hub
 
+- [_IntelligenceX](https://intelx.io/) - https://intelx.io/
+ > Open Source Intelligence & Forensic Tools
 
+- [Inputzero - Just Another Security Blog by Dhijat](https://www.inputzero.io/p/open-source.html) - https://www.inputzero.io/p/open-source.html
+> This has a some different links to OSINT resources, and engines.
 
+- [OSINT Framework](https://osintframework.com/) - https://osintframework.com/
+  - https://github.com/lockfale/osint-framework
+  > This has a nice sorted area for drilling down on various topics.
 
+- [Aware Online](https://www.aware-online.com/en/osint-tools/) - https://www.aware-online.com/en/osint-tools/
+  - Many different tools, and links to tools. 
 
+- [netbootcamp - OSINT & Internet INvestigations](https://netbootcamp.org/osinttools/) - https://netbootcamp.org/osinttools/
+- [osint.link](https://osint.link/) - https://osint.link/
+- [Research Clinic - Online Investigation and Training](http://researchclinic.net/links.html) - http://researchclinic.net/links.html
+- [https://300m.com/osint/](https://300m.com/osint/) - https://300m.com/osint/
+- [https://start.me/p/wMdQMQ/tools](https://start.me/p/wMdQMQ/tools) - https://start.me/p/wMdQMQ/tools
 
+- [https://start.me/p/1kxyw9/v3nari-bookmarks](https://start.me/p/1kxyw9/v3nari-bookmarks) - https://start.me/p/1kxyw9/v3nari-bookmarks
 
-
-
-
-
+## Git Repos To Dig Through
+- [https://github.com/mcrouse911?tab=repositories](https://github.com/mcrouse911?tab=repositories) - https://github.com/mcrouse911?tab=repositories
+- [https://github.com/iamsarvagyaa/Intel-Notes](https://github.com/iamsarvagyaa/Intel-Notes) - https://github.com/iamsarvagyaa/Intel-Notes
+- [https://github.com/infomaven/personal-osint](https://github.com/infomaven/personal-osint) - https://github.com/infomaven/personal-osint
+- [https://github.com/ivbeg/awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) - https://github.com/ivbeg/awesome-forensicstools
+- [https://github.com/apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - https://github.com/apurvsinghgautam/dark-web-osint-tools 
+- [https://github.com/si727218/osint-tools](https://github.com/si727218/osint-tools) - https://github.com/si727218/osint-tools
+- [https://github.com/apurvsinghgautam?tab=repositories](https://github.com/apurvsinghgautam?tab=repositories) - https://github.com/apurvsinghgautam?tab=repositories
+- [https://github.com/apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - https://github.com/apurvsinghgautam/dark-web-osint-tools
+- [https://github.com/Dutchosintguy?tab=repositories](https://github.com/Dutchosintguy?tab=repositories) - https://github.com/Dutchosintguy?tab=repositories
 
 
 
@@ -480,9 +508,5 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
     
       - > <https://github.com/alecmuffett/test-dns-https-onion>
 
-  - > Omnibus Set of links
-    
-      - > <https://start.me/p/1kxyw9/v3nari-bookmarks>
- 
 - ImportYei - Helps to find any Company's Suppliers
   - > <https://www.importyeti.com/>

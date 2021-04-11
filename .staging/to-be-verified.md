@@ -1,6 +1,10 @@
 # Tools That Need To Be Vetted
 Tools that need to be run to determine their usefulness, and ease of usability.
 
+## Search Engining
+- [https://github.com/sundowndev/dorkgen](https://github.com/sundowndev/dorkgen)
+	> Dorkgen is a dork query wrapper for popular search engines such as Google Search, DuckDuckGo, Yahoo and Bing. Learn more about Google Hacking. The goal of this package is to provide simple interfaces to creates valid dork queries for various search engines. This library was initially created for PhoneInfoga.
+
 ## Snapchat
 - [https://github.com/jakecreps/snapsearch](https://github.com/jakecreps/snapsearch)
   - Queries snapchat to see if a or a bulk of usernames exist.
@@ -54,7 +58,8 @@ Tools that need to be run to determine their usefulness, and ease of usability.
 ## Darkweb
 - [https://github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
   >  OnionSearch is a script that scrapes urls on different .onion search engines.
-
+- [Hunchly Dark Web Seminar Reference](https://www.hunch.ly/darkweb-osint/HunchlyDarkWeb.pdf) - https://www.hunch.ly/darkweb-osint/HunchlyDarkWeb.pdf
+  - Offline reference - [Hunchly Dark Web Seminar Reference](../.content/documents/pdf/HunchlyDarkWeb.pdf) 
 
 ## Education/Orgs
 - [https://www.osintguru.com/](https://www.osintguru.com/) - https://www.osintguru.com/
@@ -81,3 +86,12 @@ Tools that need to be run to determine their usefulness, and ease of usability.
 - [https://osintfr.com/en/tools/](https://osintfr.com/en/tools/) - https://osintfr.com/en/tools/
 - [https://tools.epieos.com/](https://tools.epieos.com/) - https://tools.epieos.com/
   > Google Account Finder, Phone Account Finder, Email usage finder, Email To LinkedIn
+
+
+## Articles
+- [https://webbreacher.com/2018/06/24/introducing-osint-yoga/](https://webbreacher.com/2018/06/24/introducing-osint-yoga/) - https://webbreacher.com/2018/06/24/introducing-osint-yoga/
+  - [https://yoga.osint.ninja/](https://yoga.osint.ninja/) - https://yoga.osint.ninja/
+> Assuming this is useful. Methodology category?
+ 
+- [https://webbreacher.com/2018/07/12/osint-map/](https://webbreacher.com/2018/07/12/osint-map/) - https://webbreacher.com/2018/07/12/osint-map/
+> Assuming this is useful. Methodology category? 

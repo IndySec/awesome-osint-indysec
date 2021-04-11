@@ -1,5 +1,9 @@
-# Critical Tools
+# Critical Tools and Techniques
 List here will be tools, and techniques that are frequently used.
+
+## Techniques
+- [Using Archive.org for OSINT Investigations](https://osintcurio.us/2021/03/03/using-archive-org-for-osint-investigations/) - https://osintcurio.us/2021/03/03/using-archive-org-for-osint-investigations/
+	- Offline Reference - [Using Archive.org for OSINT Investigations](Article/osintcurio.us_2021_03_03_using-archive-org-for-osint-investigations_.md)	
 
 ## Data Search
 - [Public Data Usa](https://www.publicdatausa.com/) - https://www.publicdatausa.com/
@@ -11,13 +15,6 @@ List here will be tools, and techniques that are frequently used.
 ### Google
   - [Exploit Database - Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - https://www.exploit-db.com/google-hacking-database
   - [CSE Utopia - Google Dorking](https://start.me/p/EL84Km/cse-utopia) - https://start.me/p/EL84Km/cse-utopia
-
-Finding hidden Unlisted Videos on YouTube
-> site:youtube.com “This video is unlisted” OR “This video is unlisted. Only those with the link can see it”
-
-Reference: [https://www.osintme.com/index.php/2020/12/10/osint-and-hidden-content-on-youtube/](https://www.osintme.com/index.php/2020/12/10/osint-and-hidden-content-on-youtube/)
-
-Offline-Reference: [www.osintme.com_index.php_2020_12_10_osint-and-hidden-content-on-youtube.md](Article/www.osintme.com_index.php_2020_12_10_osint-and-hidden-content-on-youtube.md)	
 
 
 ### Bing

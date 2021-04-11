@@ -45,6 +45,11 @@ These are links that need to be sorted to determine their practicality, and usab
 - [https://github.com/Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) - https://github.com/Malfrats/xeuledoc
     > Fetch information about any public Google document.
 
+### Misc - Usernames
+TODO: I don't know if this is the correct title or not.
+- [WhatsMyName](https://github.com/WebBreacher/WhatsMyName)
+  > Finding usernames.
+
 ## Image / Video
 - [https://www.osintcombine.com/reverse-image-analyzer](https://www.osintcombine.com/reverse-image-analyzer)
   - Reverse Image analyser, Google/Yandex
@@ -120,6 +125,11 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
 - [https://start.me/p/wMdQMQ/tools](https://start.me/p/wMdQMQ/tools) - https://start.me/p/wMdQMQ/tools
 
 - [https://start.me/p/1kxyw9/v3nari-bookmarks](https://start.me/p/1kxyw9/v3nari-bookmarks) - https://start.me/p/1kxyw9/v3nari-bookmarks
+- [OSINT Framework](https://start.me/p/ZME8nR/osint) - https://start.me/p/ZME8nR/osint>
+- [Technisette](https://www.technisette.com/p/home) - https://www.technisette.com/p/home
+  > Another omnibus site that includes various tutorials, tools, search engines, databases, and addons for your browser.
+          - [https://start.me/u/Z9Oamm/technisette](https://start.me/u/Z9Oamm/technisette) - https://start.me/u/Z9Oamm/technisette
+            - There's a start.me site too. 
 
 ## Git Repos To Dig Through
 - [https://github.com/mcrouse911?tab=repositories](https://github.com/mcrouse911?tab=repositories) - https://github.com/mcrouse911?tab=repositories
@@ -131,8 +141,8 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
 - [https://github.com/apurvsinghgautam?tab=repositories](https://github.com/apurvsinghgautam?tab=repositories) - https://github.com/apurvsinghgautam?tab=repositories
 - [https://github.com/apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools) - https://github.com/apurvsinghgautam/dark-web-osint-tools
 - [https://github.com/Dutchosintguy?tab=repositories](https://github.com/Dutchosintguy?tab=repositories) - https://github.com/Dutchosintguy?tab=repositories
-
-
+- [https://github.com/tsu-iscd/web-application-security/tree/d0041162434cc230c9f8d24f0e2a591abb6b6e6c/topics/osint](https://github.com/tsu-iscd/web-application-security/tree/d0041162434cc230c9f8d24f0e2a591abb6b6e6c/topics/osint) - https://github.com/tsu-iscd/web-application-security/tree/d0041162434cc230c9f8d24f0e2a591abb6b6e6c/topics/osint 
+- [https://github.com/WebBreacher?tab=repositories](https://github.com/WebBreacher?tab=repositories) - https://github.com/WebBreacher?tab=repositories
 
 
 
@@ -160,9 +170,7 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
     
       - > Facebook related
 
-  - > <https://github.com/WebBreacher/WhatsMyName>
-    
-      - > Finding usernames.
+
 
   - > <https://github.com/wishihab/userrecon>
     
@@ -313,16 +321,7 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
     
       - > <https://osintcurio.us/2019/02/12/osint-on-deleted-content/>
 
-  - > OSINT Framework (an omnibus site)
-    
-      - > <https://start.me/p/ZME8nR/osint>
 
-  - > Another omnibus site that includes various tutorials, tools,
-    > search engines, databases, and addons for your browser.
-    
-      - > <https://www.technisette.com/p/home>
-        
-          - > <https://start.me/u/Z9Oamm/technisette>
 
   - > Another omnibus site of OSINT links.
     

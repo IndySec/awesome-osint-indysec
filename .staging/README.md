@@ -4,10 +4,12 @@ These are links that need to be sorted to determine their practicality, and usab
 ## Social Media
 
 ### Facebook
-- [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/)
+- [https://sowdust.github.io/fb-search/](https://sowdust.github.io/fb-search/) - https://sowdust.github.io/fb-search/
   - Various search categories.
 - [FFFF - FFFF Finds Facebook Friends](https://github.com/sowdust/ffff) - https://github.com/sowdust/ffff
-
+##### Articles
+- [https://plessas.net/facebookmatrix](https://plessas.net/facebookmatrix) - https://plessas.net/facebookmatrix
+	> Helps with finding the facebookID_
 
 ### Snapchat
 - [https://map.snapchat.com/](https://map.snapchat.com/)
@@ -42,13 +44,13 @@ These are links that need to be sorted to determine their practicality, and usab
 	- Lots of scraping resouces for various social media, and databroke platforms. 
 	- OR this too. These need to be compared: https://github.com/BruceWen98/Scraping-and-Profiling-Data-Brokers
 
-- [https://github.com/Malfrats/xeuledoc](https://github.com/Malfrats/xeuledoc) - https://github.com/Malfrats/xeuledoc
-    > Fetch information about any public Google document.
-
 ### Misc - Usernames
 TODO: I don't know if this is the correct title or not.
 - [WhatsMyName](https://github.com/WebBreacher/WhatsMyName)
   > Finding usernames.
+- [UserHunt](https://userhunt.co/) - https://userhunt.co/
+
+
 
 ## Image / Video
 - [https://www.osintcombine.com/reverse-image-analyzer](https://www.osintcombine.com/reverse-image-analyzer)
@@ -131,6 +133,11 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
           - [https://start.me/u/Z9Oamm/technisette](https://start.me/u/Z9Oamm/technisette) - https://start.me/u/Z9Oamm/technisette
             - There's a start.me site too. 
 
+- [https://start.me/p/rxeRqr/aml-toolbox](https://start.me/p/rxeRqr/aml-toolbox) - https://start.me/p/rxeRqr/aml-toolbox
+- [https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
+- [http://rr.reuser.biz/](http://rr.reuser.biz/) - http://rr.reuser.biz/
+- [https://osint.sh/](https://osint.sh/) - https://osint.sh/
+
 ## Git Repos To Dig Through
 - [https://github.com/mcrouse911?tab=repositories](https://github.com/mcrouse911?tab=repositories) - https://github.com/mcrouse911?tab=repositories
 - [https://github.com/iamsarvagyaa/Intel-Notes](https://github.com/iamsarvagyaa/Intel-Notes) - https://github.com/iamsarvagyaa/Intel-Notes
@@ -143,18 +150,26 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
 - [https://github.com/Dutchosintguy?tab=repositories](https://github.com/Dutchosintguy?tab=repositories) - https://github.com/Dutchosintguy?tab=repositories
 - [https://github.com/tsu-iscd/web-application-security/tree/d0041162434cc230c9f8d24f0e2a591abb6b6e6c/topics/osint](https://github.com/tsu-iscd/web-application-security/tree/d0041162434cc230c9f8d24f0e2a591abb6b6e6c/topics/osint) - https://github.com/tsu-iscd/web-application-security/tree/d0041162434cc230c9f8d24f0e2a591abb6b6e6c/topics/osint 
 - [https://github.com/WebBreacher?tab=repositories](https://github.com/WebBreacher?tab=repositories) - https://github.com/WebBreacher?tab=repositories
+- 
+- [https://github.com/IVMachiavelli/OSINT_Team_Links](https://github.com/IVMachiavelli/OSINT_Team_Links) - https://github.com/IVMachiavelli/OSINT_Team_Links
 
+## International Links
+- [https://www.uk-osint.net/motorvehicle.html](https://www.uk-osint.net/motorvehicle.html) - https://www.uk-osint.net/motorvehicle.html
+- [https://osint.fans/australia-osint-data-sources](https://osint.fans/australia-osint-data-sources) - https://osint.fans/australia-osint-data-sources
 
-
-
+## Property Related
+*I think this is a good enough name for this.
+- [https://www.in.gov/dlgf/4931.htm](https://www.in.gov/dlgf/4931.htm) - https://www.in.gov/dlgf/4931.htm
+	> Assess Value of a given address. 
+- [http://maps.indy.gov/AssessorPropertyCards/](http://maps.indy.gov/AssessorPropertyCards/) - http://maps.indy.gov/AssessorPropertyCards/
+  > Property records for Indianapolis, IN
+ 
 
 ## YET TO BE FILTERED
 
 > <https://mattw.io/youtube-geofind/location>
 > <https://www.doogal.co.uk/strava.php>
-> 
-> <http://docquery.fec.gov/>
-> 
+
 > <https://www.melissa.com/>
 > 
 > <https://github.com/AzizKpln/Whistleye_Project>
@@ -438,9 +453,6 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
     
       - > \<\<OSINT\_Fundamentals\_Syllabus\_and\_Outline\_\_1\_.pdf\>\>
 
-  - > Various toolset that is specific to their website.
-    
-      - > <https://osint.sh/>
 
   - > Snapchat searching tool.
     
@@ -490,10 +502,6 @@ The meta-resouce links should be reviewed, useful resouces extracted, and refere
   - > Another Omnibus tools site:
     
       - > <https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo>
-
-  - > Another Omnibus tool set:
-    
-      - > <https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list>
 
   - > Halfagigonion - Supposedly increases the speed (need to review.
     

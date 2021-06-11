@@ -41,8 +41,11 @@ This page shall list various resources, and organizations to further help with e
   - 
 ## Events
 - Search Party (OSINT CTF for Missing Persons) - [https://www.tracelabs.org/initiatives/search-party](https://www.tracelabs.org/initiatives/search-party) 
-
-
+- TraceLabs CTF (Search Party) Write-ups
+  - [https://shandyman.online/blog/on-a-mission-a-tracelabs-ctf-missing-persons-writeup/](https://shandyman.online/blog/on-a-mission-a-tracelabs-ctf-missing-persons-writeup/) - https://shandyman.online/blog/on-a-mission-a-tracelabs-ctf-missing-persons-writeup/
+  - [https://medium.com/@tracelabs/tales-from-defcon-27s-missing-persons-ctf-winners-team-w00kies-acea2f12d07d](https://medium.com/@tracelabs/tales-from-defcon-27s-missing-persons-ctf-winners-team-w00kies-acea2f12d07d) - https://medium.com/@tracelabs/tales-from-defcon-27s-missing-persons-ctf-winners-team-w00kies-acea2f12d07d
+  - [https://wondersmithrae.medium.com/finding-missing-people-with-tracelabs-ctf-d5617c7cd659](https://wondersmithrae.medium.com/finding-missing-people-with-tracelabs-ctf-d5617c7cd659) - https://wondersmithrae.medium.com/finding-missing-people-with-tracelabs-ctf-d5617c7cd659
+- 
 ## Resources
 ### Books
 - [Books written by Michael Bazzell](https://inteltechniques.com/books.html) - https://inteltechniques.com/books.html
@@ -59,8 +62,13 @@ This page shall list various resources, and organizations to further help with e
 ### Videos
 - [OSINT Curious](https://osintcurio.us/live-streams/) - https://osintcurio.us/live-streams/
 
+### Documents
+- [Digital Exhuast Opt Out Guide for Law Enforcement Partners and Their Families Version 1.0](https://www.documentcloud.org/documents/7048846-Digital-Exhaust-Opt-Out-Guide-for-LE-Partners.html) - https://www.documentcloud.org/documents/7048846-Digital-Exhaust-Opt-Out-Guide-for-LE-Partners.html
+	- Offline reference - ![](../.content/documents/pdf/Digital-Exhaust-Opt-Out-Guide-for-LE-Partners.pdf) 
+
 
 ### Individuals
 - [https://twitter.com/harrywald80](https://twitter.com/harrywald80) - https://twitter.com/harrywald80
 - [https://twitter.com/palenath](https://twitter.com/palenath) - https://twitter.com/palenath
   - [https://github.com/megadose/](https://github.com/megadose/) - https://github.com/megadose/
+- [https://twitter.com/nixintel](https://twitter.com/nixintel) - https://twitter.com/nixintel

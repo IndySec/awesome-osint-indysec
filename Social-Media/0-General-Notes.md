@@ -22,4 +22,15 @@ TODO - Add preface
     - Discord History Tracker
     - Discover Hub
     - Disboard
-    - Unfurl - 
+    - Unfurl -
+
+
+## Gaming
+	- [https://www.xboxgamertag.com/](https://www.xboxgamertag.com/) - https://www.xboxgamertag.com/
+	> Xbox, and any connected PC
+
+# Articles
+- [Skype - A hidden OSINT goldmine](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html) - https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html
+  - Offline reference: [whitehatinspector.blogspot.com_2021_03_skype-hidden-osint-goldmine.html](Articles/whitehatinspector.blogspot.com_2021_03_skype-hidden-osint-goldmine.html.png) 
+- [OSINT investigations of Spotify](https://laptrinhx.com/osint-investigations-on-spotify-4007838654/) - https://laptrinhx.com/osint-investigations-on-spotify-4007838654/  
+  - Offline reference: [laptrinhx.com_osint-investigations-on-spotify-4007838654_.png](Articles/laptrinhx.com_osint-investigations-on-spotify-4007838654_.png)

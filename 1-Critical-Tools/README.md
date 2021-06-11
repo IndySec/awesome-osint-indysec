@@ -10,6 +10,14 @@ List here will be tools, and techniques that are frequently used.
   > Can return tons of data points about individuals. 
 -  [Family Tree Now](https://www.familytreenow.com/) - https://www.familytreenow.com/
     > Returns more information about individuals that could be related. 
+- [Fast People Search](https://www.fastpeoplesearch.com/) - https://www.fastpeoplesearch.com/
+- [True People Search](https://www.truepeoplesearch.com/) - https://www.truepeoplesearch.com/
+- [Peek You](https://peekyou.com/) - https://peekyou.com/
+
+### Other resources
+- [Peoplefinders.com]() - 
+
+- [PeopleSearchnow.com]() -
 
 ## Search Engine
 ### Google
@@ -18,9 +26,15 @@ List here will be tools, and techniques that are frequently used.
 
 
 ### Bing
-- Something
+- TODO
 
 ### DuckDuckGo
-- Something
+- TODO
 
 
+
+## Mobile
+- TODO:
+  - Setting up an Android VM
+    - https://androidadepth.blogspot.com/2019/04/android-x86-virtual-machine.html
+  - https://sourceforge.net/projects/linuxvmimages/files/VirtualBox/A/Android_x86_64BIT_9.0_r2_VB.zip/download

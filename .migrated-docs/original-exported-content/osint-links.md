@@ -323,23 +323,6 @@ Potentially useful tools, and not critical either.
  
 
  
-
-People
-
-Thursday, October 29, 2020
-
-7:02 PM
-
- 
-
-  - > Peoplefinders.com
-
-  - > PeopleSearchnow.com
-
- 
-
- 
-
 Email / Passwords / Phone
 
 Sunday, September 20, 2020
@@ -357,6 +340,7 @@ Sunday, September 20, 2020
       - > Potentially the original git repo
 
   - > <https://github.com/sundowndev/PhoneInfoga>
+    > https://github.com/megadose/phoneinfoga-maltego
 
   - >  
 
@@ -455,6 +439,7 @@ TODO:
     <!-- end list -->
     
       - > Facebook
+
     
       - > Snapchat
     
@@ -1793,84 +1778,3 @@ Thursday, December 3, 2020
 
 10:30 AM
 
- 
-
- 
-
-Maritime
-
-Wednesday, October 28, 2020
-
-7:04 PM
-
- 
-
-  - > <https://www.marinetraffic.com/>
-
-  - > <http://maritime-connector.com/>
-
-  - > <http://vesselfinder.com/>
-
->  
-
- 
-
-Articles
-
-Wednesday, October 28, 2020
-
-7:04 PM
-
- 
-
-  - > <https://medium.com/@raebaker/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1>
-
- 
-
- 
-
-Vehicles
-
-Wednesday, October 28, 2020
-
-7:05 PM
-
- 
-
-  - > License plates
-    
-      - > <https://keyfindings.blog/2019/12/07/car-spotting-and-osint/>
-    
-      - > <https://www.riskint.blog/post/tracking-evil-corp-s-cars>
-
- 
-
-Articles
-
-Wednesday, October 28, 2020
-
-7:05 PM
-
-  - > <https://keyfindings.blog/2019/12/07/car-spotting-and-osint/>
-
- 
-
- 
-
-Business
-
-Wednesday, February 24, 2021
-
-3:48 PM
-
- 
-
-Import Records
-
-Wednesday, February 24, 2021
-
-3:48 PM
-
-  - > <https://www.importyeti.com/>
-    
-      - > <https://www.importyeti.com/company/lovehoney>
